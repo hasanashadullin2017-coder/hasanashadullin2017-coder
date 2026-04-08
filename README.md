@@ -1,16 +1,22 @@
-## Hi there 👋
+Меня зовут Хасан. Я — Python разработчик / AI automation engineer из Казани.
 
-<!--
-**hasanashadullin2017-coder/hasanashadullin2017-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 В настоящее время учусь в КНИТУ-КАИ на направлении "Радиотехника" на 4 курсе.
 
-Here are some ideas to get you started:
+🥋 Являюсь мастером спорта по борьбе.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ В свободное время занимаюсь спортом и изучаю backend-разработку и AI-автоматизацию.
+
+📫 Можете связаться со мной тут: Telegram
+
+---
+
+🛠 Языки и технологии:
+
+Python  
+PostgreSQL  
+Redis  
+MongoDB 
+
+📫 Связь
+
+Telegram: @tazalk
